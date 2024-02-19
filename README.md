@@ -1,4 +1,4 @@
-### Hey, i am dwi, call me lian, kanjud.
+Hey, i am dwi, call me lian, kanjud.
 https://dwizulyan.github.io/profile
 
 <!--
