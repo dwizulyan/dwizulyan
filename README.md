@@ -1,5 +1,5 @@
-### Hey
-https://github.com/dwizulyan
+### Hey, i am dwi, call me lian, kanjud.
+https://dwizulyan.github.io/profile
 
 <!--
 **dwizulyan/dwizulyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
